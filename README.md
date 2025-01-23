@@ -21,7 +21,10 @@
 </br>
 </br>
 <div align="center">
-  <img align="left" src="github-readme-stats-ocj4zcw0j-john-paul-larkins-projects.vercel.app" alt="John-Paul-Larkin github stats" width="400" />
+
+<img align="left" src="https://github-readme-stats-zeta-six-76.vercel.app/api/top-langs?username=John-Paul-Larkin&show_icons=true&locale=en&layout=compact" alt="John-Paul-Larkin github stats" width="400" />
+  github-readme-stats-zeta-six-76.vercel.app/api/top-langs?username=John-Paul-Larkin&show_icons=true&locale=en&layout=compact
+
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=John-Paul-Larkin&show_icons=true&locale=en&layout=compact" alt="John-Paul-Larkin github stats" width="400" />
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=John-Paul-Larkin&show_icons=true&locale=en" alt="John-Paul-Larkin github stats" width="400" />
 </div>
