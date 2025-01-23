@@ -21,11 +21,10 @@
 </br>
 </br>
 <div align="center">
+<img align="center" src="https://github-readme-stats-zeta-six-76.vercel.app/api/top-langs?username=John-Paul-Larkin&show_icons=true&locale=en&theme=radical&langs_count=14&layout=pie" alt="John-Paul-Larkin github stats" />
 
-<img align="left" src="https://github-readme-stats-zeta-six-76.vercel.app/api/top-langs?username=John-Paul-Larkin&show_icons=true&locale=en&layout=compact" alt="John-Paul-Larkin github stats" width="400" />
-  github-readme-stats-zeta-six-76.vercel.app/api/top-langs?username=John-Paul-Larkin&show_icons=true&locale=en&layout=compact
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=John-Paul-Larkin&show_icons=true&locale=en&layout=compact" alt="John-Paul-Larkin github stats" width="400" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=John-Paul-Larkin&show_icons=true&locale=en" alt="John-Paul-Larkin github stats" width="400" />
+
+<img height=200 align="center" src="https://github-readme-stats-zeta-six-76.vercel.app/api?username=John-Paul-Larkin&show_icons=true&locale=en&theme=radical" alt="John-Paul-Larkin github stats"  />
 </div>
 
